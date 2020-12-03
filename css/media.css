@@ -1,0 +1,29 @@
+/* mobile device */
+
+@media (min-width: 320px) and (max-width:500px) {
+
+}
+
+/* small device */
+
+@media (min-width: 501px) and (max-width:768px) {
+
+}
+
+/* medium device */
+
+@media (min-width: 768.1px) and (max-width: 992px) {
+
+}
+
+/* desktop device */
+
+@media (min-width: 992.1px) and (max-width: 1200px) {
+
+}
+
+/* large device */
+
+@media (min-width: 1200.1px) {
+    
+}
